@@ -1,0 +1,2 @@
+home=$(echo /$HOME/jts)
+cd $home ; python3 johnny.py
